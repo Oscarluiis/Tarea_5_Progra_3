@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/LuiizMusic11/Desktop/Tarea_5_Progra_3/Evaluador.cpp
+Evaluador.h
+/Users/LuiizMusic11/Desktop/Tarea_5_Progra_3/Evaluador.h
+
+/Users/LuiizMusic11/Desktop/Tarea_5_Progra_3/Evaluador.h
+iostream
+-
+vector
+-
+set
+-
+map
+-
+
+/Users/LuiizMusic11/Desktop/Tarea_5_Progra_3/main.cpp
+Evaluador.h
+/Users/LuiizMusic11/Desktop/Tarea_5_Progra_3/Evaluador.h
+iostream
+-
+vector
+-
+set
+-
+map
+-
+
